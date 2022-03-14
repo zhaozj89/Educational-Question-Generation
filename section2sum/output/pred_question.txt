@@ -1,0 +1,278 @@
+<ACTION> <FIRST>  What did the cottager find?-strainer, such as are usually made of [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the cottager think a milk-strainer could be washed? file color
+<ACTION> <FIRST>  What did the man throw for him?-stream. file thickly water? stream
+<ACTION> <FIRST>  What did the widow's husband do one day, and never come back again? clear stream [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was the widow sorely to be pitied? file reply. snippety-file shuffle
+<ACTION> <FIRST>  What did the poor young wife not want to be?-day was coming on. [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the poor young wife want to take one of her pigs?.dequeue
+<ACTION> <FIRST>  What did the woman drop? to her breast. subject line and fall to her chest? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why?-queue.html file the woman cried of despair because there lay her cherished pig
+<ACTION> <FIRST>  What did the young widow feel it was becoming to do?. service and cur [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the young widow feel it was becoming to rise and curtsey? clear.
+<ACTION> <FIRST>  What did the old Dame want to cure Kittlerumpit?. spot? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the old Dame want to hear how much she could cure? answer.html file
+<ACTION> <FIRST>  What did the widow do?-file. subject of her pocket and draw out a tiny
+<ACTION> <FIRST>  What did the poor widow give a piteous cry? before she could even guess what [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the poor widow give a piteous cry?.dequeue file copy
+<ACTION> <FIRST>  What did the mother do? file thick wood behind her house. color search? words [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the mother do nothing but sit in her kitchen and cry, because she was afraid [SEP] <OUTCOME_RESOLUTION> <FIRST>  What did the mother do? search. subject water behind her house?-water back
+<ACTION> <FIRST>  What did the young widow hear?-of-the-wheel and voice. vow of [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why could the young widow hardly believe her eyes?.html file link? copy
+<ACTION> <FIRST>  What did the widow woman do?-of-the-woods. show him in her [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the widow woman think about teasing the Fairy? game.html file blank answer to
+<ACTION> <FIRST>  What did the Fairy do when she saw her mother?-Kittlerumpit
+<ACTION> <FIRST>  What did the Fairy beg for instead of bacon? search items? file words? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Fairy beg the Goodwife to give her a pig?.dequeue
+<ACTION> <FIRST>  What did the Fairy do, for all?-door. shape? file? words? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Fairy turn round and run down?. file copy from YouTube link
+<ACTION> <FIRST>  What did the lump grow bigger and larger till it was nearly as big?. shape? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the lump grow bigger and larger till it was nearly as big? service notice
+<ACTION> <FIRST>  What did the old man collect to take back his wife? clear? file goodly [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the old man take out for woods? file. subject to his own care and
+<ACTION> <FIRST>  What did the old man do in hopes that he had only been overtaken by a mountain shower [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the old man look about for some shelter?-relationSHIP>
+<ACTION> <FIRST>  What did the old man think? of fright clear because the sky cleared.-file [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the old man think that he must die of fright?.html file copy from
+<ACTION> <FIRST>  What happened to the old man?. shape of his foot??letter? and [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was surprised?-queue service.html file size: 256 characters thick and the old
+<ACTION> <FIRST>  What did the old man see?. file forward, and all-the others backward?
+<ACTION> <FIRST>  What did the old man forget he and step out of?. service?? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the old man forget his son? file at hand.<CAUSAL_
+<ACTION> <FIRST>  What did the old man want to do?. sounds like a file, words sound like [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the old man want to dance before the demons? answer yes.<CAUSE
+<ACTION> <FIRST>  What happened the old man could restrain himself no longer? clear and dance at once. [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why could the old man restrain himself no longer? thread thick with tears. and
+<ACTION> <FIRST>  What did the old man hand to his youngest son?-cup search for success?
+<ACTION> <FIRST>  What did the old man do?-file very humbly. back to him?
+<ACTION> <FIRST>  What did the chief do with his right cheek?-weight from his left hand.
+<ACTION> <FIRST>  What did the old man suddenly vanish?-file. color?? mute? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the old man suddenly vanish? file.html link to his guilty deed and pledge [SEP] <OUTCOME_RESOLUTION> <FIRST>  What happened after the chief took it from his right cheek?-door demon mysteriously vanished
+<ACTION> <FIRST>  What did the old man find?. file words to him? sounds and deed?
+<ACTION> <FIRST>  What did the old man do?-file, dance and run along home. shape him [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the old man find it impossible to walk quietly? answer: yes.<CA
+<ACTION> <FIRST>  What did the wife do when she saw the ugly lump?-lane and what happened [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the husband find his wife very anxious? thread open. file color-
+<CAUSAL_RELATIONSHIP> <FIRST>  Why didn't the wicked and disagreeable old man have for many years been troubled with growth
+<ACTION> <FIRST>  What did the neighbor tell him about his wife's wedding ring?-door?
+<ACTION> <FIRST>  What did the second old man do before him?-file. subject search and kne down
+<ACTION> <FIRST>  What did the old man think would please? over his head?-file. subject [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the old man think that anything would please the demons?.html file reply:
+<ACTION> <FIRST>  What did the Oni want to see?-door. subject matter search? file [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why?-oni.html file from the Onion service box, followed by a
+<ACTION> <FIRST>  What did the prince order Rose-Red to do? guard duty?guard duties [SEP] <ACTION> <SECOND>  What did the prince order Rose-Red to do? serviceThe prince ordered Rose - [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the prince order Rose-Red to escort her son? answer yes.html file
+<ACTION> <FIRST>  What did the master swordsmen hire out to those who wished to do away with their enemies? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why were master swordsmen of various kinds?.jpg file size: 640px;
+<ACTION> <FIRST>  What did Molo tell the boy in secret? file. color doMolo reveal what [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the servant tell Molo what had occurred? file.txt copy of volume two
+<ACTION> <FIRST>  What did the young man grow sad again?-stock.jpg fileHELLO! [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was the young man roused from confused thoughts? service request notice.-
+<ACTION> <FIRST>  What did the servant give to the old man?-file. search deed and water return
+<ACTION> <FIRST>  What did Rose-Red and the youth wrap themselves in? service? services available
+<ACTION> <FIRST>  What did the youth do in a distant room? search and find? service request [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the youth hide Rose-Red in a distant room? answer yes to that question
+<ACTION> <FIRST>  What did Rose-Red tell the whole story exactly as it had happened? service and [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did Rose-Red tell the whole story exactly as it had happened?SHIP>
+<ACTION> <FIRST>  What did the youth do in Molo? and what happened to him after he ran
+<ACTION> <FIRST>  What did the King do to seek for a bride equal to Queen in beauty? messenger [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the King not even think of taking a second wife? answer. file blank
+<ACTION> <FIRST>  What did the King's daughter have? and other items of interest to her father? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Princess want three dresses? answer: yes.<CAUSAL_REL
+<ACTION> <FIRST>  What did the Princess want?-cloak made of thousand different kinds of skin? [SEP] <ACTION> <SECOND>  What did the Princess want?-file. private part of skin made from thousand different kinds [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Princess want a cloak made of thousand different kinds of skin?-rel
+<ACTION> <FIRST>  What did the huntsmen do to their cart?. deed and private water-bath [SEP] <ACTION> <SECOND>  What did the huntsmen do to their cart?. care flowThe huntsman took [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why were sent into the kitchen?.html file of confusion?queue?file?options
+<ACTION> <FIRST>  What did the cook ask?-door. service on his way upstairs for a little bit [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the cook ask the maid to go upstairs for a little bit and look on?
+<ACTION> <FIRST>  What did the cook make?ock as well as she possibly could.-soup
+<ACTION> <FIRST>  What did the King order to be brought before him?-cook.jpg fileport [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the King command the cook to be brought before him?.html file link?
+<ACTION> <FIRST>  What did the King ask?. service? and do not answer his questions?- [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the King ask her who she was? file.html link to his interest statement
+<ACTION> <FIRST>  What did the cook do in order to get her food? clear. dress and deed- [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the cook have to confess that she always put something in the bread-soup
+<ACTION> <FIRST>  What did the maiden do because it had stayed too long beyond the half-hour? clear [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the maiden break from the King? answer.html file blank-file.com [SEP] <OUTCOME_RESOLUTION> <FIRST>  What happened after the maiden danced again with her dress? file color and deed?
+<ACTION> <FIRST>  What did the King do?-hand and hold it tightly. hand? command
+<ACTION> <FIRST>  What was the fourth Mikoto in descent from Amaterasu, the Sun Goddess? and [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was Hohodemi the fourth Mikoto in descent from Amaterasu,?
+<ACTION> <FIRST>  What did the brothers lead happy lives? search and deed? service followed. rate [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was Umi-sachi a very skillful fisher?.dequeue service
+<ACTION> <FIRST>  What did the Skillful Fisher want to try? file. subject search from his foot- [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Happy Hunter and his brother have a favorite occupation? file.html response to
+<CAUSAL_RELATIONSHIP> <FIRST>  Why did the brothers each start out to try their occupation? answer.html file blank?
+<ACTION> <FIRST>  What did the Happy Hunter bait?-rod and what happened to his brother's much- [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why could the Happy Hunter not help being the most bungling fisher? clearances.
+<OUTCOME_RESOLUTION> <FIRST>  What happened after the fish had been caught?ure.After the fish was caught he found
+<ACTION> <FIRST>  What did the Hunter set to do for his lost hook? search and find? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Hunter begin to feel extremely anxious? file clear stream of water.html link
+<ACTION> <FIRST>  What did the Hunter do most diligently, but it was nowhere to be found?- [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Hunter hunt everywhere for the hook most diligently? link. copy file
+<ACTION> <FIRST>  What did the Hunter do after looking for his brother's hook? and hoist- [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Hunter return to the seashore? answer now.<CAUSEAL
+<ACTION> <FIRST>  What did the old man lose while he was hunting?-file thicket. color search [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the old man lose his brother's precious fishing hook?.html file open?
+<ACTION> <FIRST>  What did the Happy Hunter want to find?-hand for himself. file? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Happy Hunter want to find the hook for himself? answer.html file blank
+<ACTION> <FIRST>  What did the Happy Hunter offer to?-man. back and basket? forward [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Happy Hunter want to make something for his brother? answer.html file blank
+<ACTION> <FIRST>  What did the Happy Hunter ride on?-of his friend. file copy from the deed [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Hunter see the Sea King's Palace?.html file link?
+<ACTION> <FIRST>  What did the Happy Hunter see? open and two beautiful women came out.-door [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was the Mikoto surprised?.html file volume two, and why did he have
+<ACTION> <FIRST>  What did the Happy Hunter carry?-basket. file, golden buckets and gold [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Happy Hunter and the Happy Bunny carry golden buckets? answer.html file blank
+<ACTION> <FIRST>  What did the ladies do from amidst their branches? vision gazing at them from midst their [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why were the ladies frightened?-queue.html file showing interest in deep still water?
+<ACTION> <FIRST>  What did the Mikoto do for some one to come?-proofing service? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why?-status> fileholder.html?fileholders?letterhead?volume?
+<ACTION> <FIRST>  What was placed in the cup and returned to them?-door? back door?
+<ACTION> <FIRST>  What did the Happy Hunter ask Ryn Jin where the lost hook was? and what [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Happy Hunter want to ask Ryn Jin where?ance.html file?
+<ACTION> <FIRST>  What did the Happy Hunter ask?-door. subject matter search for?? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Happy Hunter ask?.html file? back to his gate?
+<ACTION> <FIRST>  What did the younger Princess tell her father of all that had happened to them at the gate [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was surprised at all that had happened to them?.html file volume two hundred years
+<ACTION> <FIRST>  What did Ryn Jin do, and thank the Sea King?-door? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Happy Hunter bow again, and thank the Sea King?.html file
+<ACTION> <FIRST>  What did the Prince and Princesses do when they came in?. spot file? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Prince and Princesses play on the KOTO (the Japanese harp)?
+<ACTION> <FIRST>  What did the Sea King do to ask his subjects if any of their fishing hook had been
+<ACTION> <FIRST>  What did Ryn Jin arrange the octopus, cuttlefish and bonito? [SEP] <ACTION> <SECOND>  What did the Sea King arrange? file. pledge groupThe Sea King arranged the oct [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Sea King order the fish to return their fishing hook?.html file back
+<ACTION> <FIRST>  What did the fish hear?-words and could say nothing for some time. care flow [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why were taken by surprise when they heard these words?fish did not say nothing for some
+<ACTION> <FIRST>  What did Ryn Jin return to the TAI's dwelling? round? file thick [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was the TAI ill?SHIP file open.<CAUSAL_RELATION
+<ACTION> <FIRST>  What did the cuttlefish come forward and say to the King?-door? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the cuttlefish want to return? file.html link back from YouTube?
+<ACTION> <FIRST>  What did the Sea King ask for?.jpg file gallery slide show background color- [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Sea King ask for forgiveness?.html file link to his guilty deed?
+<ACTION> <FIRST>  What did the TAI shake his fins for?-fishing service? file?
+<ACTION> <FIRST>  What did the Princesses and Tamayori do in pressing him to stay?- [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was anxious to get back home?file.html file volume two-hundred and
+<ACTION> <FIRST>  What did the Happy Hunter grow more and more homesick as the days passed? file [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Happy Hunter grow more and more homesick as the days passed?.
+<ACTION> <FIRST>  What did the two Princesses do after they entered? clearance and gliding out
+<ACTION> <FIRST>  What did the Happy Hunter ask?.com file??options?wise answer?
+<ACTION> <FIRST>  What did the Happy Hunter give to his friend?-file. talismans? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why? of the Happy Hunter.<CAUSAL_RELATIONSHIP> file clear
+<ACTION> <FIRST>  What did the Sea King order?.html file copy? back to Japan?
+<ACTION> <FIRST>  What did the Happy Hunter follow?-skillful Fisher with a dagger.? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Hunter plan and watch for an opportunity to kill?.html file caption
+<ACTION> <FIRST>  What did the Happy Hunter do to take out his brother's distress? and water-
+<ACTION> <FIRST>  What did the Happy Hunter promise?-of-birth.?letter of birth? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Skillful Fisher promise to restore his rights and also swear that he owed him
+<ACTION> <FIRST>  What did the neighbors do and then divide? neighborly hay.-sharing? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was the neighbor's property?-side conflict resolved with a great meadow in
+<ACTION> <FIRST>  What did the neighbor want?oke. file deed alone? littering? and others? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the neighbor want to own a meadow for himself alone? answer yes.<
+<CAUSAL_RELATIONSHIP> <FIRST>  Why did the neighbor get together as many mowers and ever he could to do?
+<ACTION> <FIRST>  What did the large man step up to? over so. and say: "Do not
+<ACTION> <FIRST>  What did the neighbor do when he saw how they took hold?. place and deed? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the neighbor not even take the trouble to begin when he saw how they took hold
+<ACTION> <FIRST>  What did the mowers do?. laugh fit to split?? litter? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why could the mowers scarcely swing their scythes? clearances. ( [SEP] <OUTCOME_RESOLUTION> <FIRST>  What did the mowers do?. vow? litter box? mutter? file?
+<ACTION> <FIRST>  What did the neighbor give to?-giant? back? file thickly [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the neighbor feel the kick? answer.html file link to his foot stuck to [SEP] <OUTCOME_RESOLUTION> <FIRST>  What did the neighbor give to?-wise. giant? file back? service
+<ACTION> <FIRST>  What did the old man's wife have? file and water-cask. service? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did Matte and Maie have bread, butter, fish?.gov file
+<ACTION> <FIRST>  What did Maie want to feed Prince? over the water.-water? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was Maie worried about Prince?queue.html file volume two??volume
+<ACTION> <FIRST>  What did the old woman want to get from the buttermilk?. service and what [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the old woman want to get something for herself? answer yes.<CAUSE
+<ACTION> <FIRST>  What did Matte ask the old man what was his name? back. Matte asked the [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the old man ask Maie to want for nothing?.html file show interest
+<ACTION> <FIRST>  What did the students proceed to explain?-of Kalevala. subject matter thick [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the students proceed to explain the sea gods?.html file copy from YouTube
+<ACTION> <FIRST>  What did the students give Prince?-of-the boat.? thick water? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the students give Prince some cold meat? file reply.html followed closely with a
+<ACTION> <FIRST>  What did Matte never set the herring-net?, net and what happened to [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did Matte's wife pondered over some magic rhymes his childhood from an old
+<ACTION> <FIRST>  What did Matte set only one net close to? Matte sets no nets near the [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why?-why did the old woman want to set only one net close by the shore
+<ACTION> <FIRST>  What did Ahti do to suit his heart? clear her words of interest. rhy [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did Ahti hum the words of her magic rhyme? answer to that question
+<ACTION> <FIRST>  What did Maie do all the time they were on the water?-voiceMa [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why? of the old woman pretending not to hear his voice.<CAUSAL_
+<ACTION> <FIRST>  What did Matte do, but soon rose again?-note: Matte lay down
+<ACTION> <FIRST>  What did the fisherman and his wife do while they went out?. spot deed? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the fisherman and his wife stand aghast on their doorstep?.jpg
+<ACTION> <FIRST>  What did Maie find?-of-fish? show? of fish? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why could Matte not believe his eyes?-relationSHIP> viewMat
+<ACTION> <FIRST>  What did the cow continue to fend for Matte and Maie??ate? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the cow continue to fend for her husband? clear?.html file link
+<ACTION> <FIRST>  What did Matte and his men catch to Sweden? file search for the fish that they sent [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did Matte and his men catch such quantities of fish?.jpg file size
+<ACTION> <FIRST>  What did Maie eat and fend for?-door search, deed box?
+<ACTION> <FIRST>  What did Maie get? service and clothes fit for a great lady.-queue [SEP] <ACTION> <SECOND>  What did the rock Ahtola become? boat show interest and Maie was lost in [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why?-urchins and herring were lost in wonderment because they had a little
+<ACTION> <FIRST>  What did Maie's husband do?Maie's neighbors make fun of her. [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was Maie's husband only making fun of her?-relationSHIP> answer
+<ACTION> <FIRST>  What did the old woman give to the fiddle?-file. search volume two? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the old woman give the fiddle such a 'puff' that it sent her
+<ACTION> <FIRST>  What was the Dragon King of Sea?-king.jpg file size: 640kB [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was the Dragon King of Sea?.html file at hand, and did not agree
+<ACTION> <FIRST>  What did the Dragon King decide to do when he saw the Palace of Rin Jin? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Dragon King think that if he married the Princess would not only be happier,
+<ACTION> <FIRST>  What did the fish carry?ike? shape? show interest and dress?
+<ACTION> <FIRST>  What did the Dragon King and his bride do very happily?. spot deed? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Dragon King and his bride live very happily?.html file copy from
+<ACTION> <FIRST>  What did the doctor want to cure?. care of Queen by curing her? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the doctor want to cure the Queen? file color.jpg blank link.<
+<ACTION> <FIRST>  What did the chief steward think about?-file. file off of jelly fish, [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the chief steward think about what was required of the jelly fish? clear
+<ACTION> <FIRST>  What did the chief steward ask kurage to tell him?a-k [SEP] <ACTION> <SECOND>  What did the chief steward want to do on the monkey?. book flow? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the chief steward want to play a trick on the monkey? clearances
+<ACTION> <FIRST>  What did the monkey ask to come back with him?-door. sign request and [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the monkey want to flatter? file.html? back up?
+<ACTION> <FIRST>  What did the jelly fish ask Mr. Williams??fish asked Mr. William [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the jelly fish want to go back? file color.jpg blank face-color
+<ACTION> <FIRST>  What did the monkey ask? clear with him. do he have the liver with him [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the jelly fish want to have the monkey liver with him? answer.html file
+<ACTION> <FIRST>  What did the monkey want to know?-of a live monkey would cure him. litter [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the monkey want to know what was? clearances show no interest in his
+<ACTION> <FIRST>  What did the monkey promise to do?-wise. show interest? answer heart? litter [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the monkey promise to take him back if he would help the jelly fish?
+<ACTION> <FIRST>  What did the monkey ask? fish after getting he liver. show interest from him at once [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the monkey ask the jelly fish if it wasn't his intention to come with him
+<ACTION> <FIRST>  What did the monkey do when he saw him approaching?-wise, what happened to [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the monkey laugh at the jelly fish? file. subject color? show clear interest
+<ACTION> <FIRST>  What was carried out on the ancestor of jelly fishes? fish.fish file color
+<ACTION> <FIRST>  What did the fisherman do all day long, and as many fish could wish for? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why could the fisherman not catch a thing? file coloration.jpg show options available
+<ACTION> <FIRST>  What did the king promise to do?-king promised to take the boy and see if [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the king promise to take the boy and see if he could not save him?
+<ACTION> <FIRST>  What did the youth do after he forgot his handkerchief?.com file copy
+<ACTION> <FIRST>  What did the youth do where he has beaten him?-wise, verse two. [SEP] <ACTION> <SECOND>  What did the youth do?-water. pledge himself where he has beaten him?
+<ACTION> <FIRST>  What did the youngest princesses do when he came back in the morning? clear? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why were the youngest princesses entirely out of the ground? link. card reply: [SEP] <OUTCOME_RESOLUTION> <FIRST>  What happened after the troll beat and whipped him so severely?-weight loss. vow
+<ACTION> <FIRST>  What did the king want to do?. file words of interestThe king wanted to go [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the king want to go up? file.html link? subject? show others
+<ACTION> <FIRST>  What did the king ask Whiteland?.jpg file color-striping? [SEP] <ACTION> <SECOND>  What did the king ask?-king asked where Whiteland might be. service group? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why?-weight.html file?queue?box?file?mode?default?
+<ACTION> <FIRST>  What did the king ask for?-file. shape of his foot? file? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the king ask for a pair of snowshoes?.html file back to
+<ACTION> <FIRST>  What did the king wish to be far away when he met the North Wind? search
+<ACTION> <FIRST>  What did the king do? and what happened to him out of his pocket. notice deed
+<ACTION> <FIRST>  What did the poor woman send her son to gather wood?-stock. file thick [SEP] <ACTION> <SECOND>  What did the poor woman send her son to gather wood? water? file thickly [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the poor woman send her son to gather wood? answer.html file from Google
+<ACTION> <FIRST>  What did the boy throw into a pond?-letter search for items. subject? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the woman tell the boy to get out and earn his own living? clear
+<ACTION> <FIRST>  What did the merchant ask all of his boy servants? file search. word deed and ruler [SEP] <ACTION> <SECOND>  What did the merchant ask all of his boy servants?ay. group file?- [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the boy go out into the wide world? answer.html file blank service request
+<ACTION> <FIRST>  What did the merchant want to do in order to get rid of her?. word [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the merchant remember that the scullion had given him a four-shilling piece
+<ACTION> <FIRST>  What did the people do to beg and implore the merchant?-door? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the people beg and implore the merchant to sell them?.html file
+<ACTION> <FIRST>  What did the people do for their cat? sale and what happened to his cats? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the people beg and plead for the merchant sell his cat? clear? file
+<ACTION> <FIRST>  What did the merchant give to boot?.?? boatyard? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the merchant think the ship would sink? file.jpg show subject to search after
+<ACTION> <FIRST>  What did Snorro the Dwarf live in? and what happened to his father's [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was Snorro the Dwarf vain and ambitious?.html file link inserted at
+<ACTION> <FIRST>  What would Norro do unless he bowed before them?-doorSnorro would [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why would the king not attend to the country people? file. image from royal-file [SEP] <CAUSAL_RELATIONSHIP> <SECOND>  Why would the king not attend to the country people? answer. file coloration>
+<ACTION> <FIRST>  What did Snorr pretend to do? of the great bookSnorro pretended not to [SEP] <ACTION> <SECOND>  What did Snorr pretend to do?. group speechSnorro pretended not his time [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was Snorro keeping a keen look-out during his wanderings? file color
+<ACTION> <FIRST>  What did the Islanders fear? clear, and what happened because he was so skilled in knight [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was the elder Earls afraid? file volume two.html available at random time frame
+<ACTION> <FIRST>  What did the people like best? brother always free of speech and ready with Harold tongue [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was the youngest boy jealous of his silent brother?-clay.html file volume
+<ACTION> <FIRST>  What did Earl Harold's made up his mind that a charming young Irish lady, the Lady [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did Earl Harold's made up his mind that a charming young Irish lady, the Lady [SEP] <CAUSAL_RELATIONSHIP> <SECOND>  Why did Earl Harold's made up his mind that a charming young Irish lady, the Lady [SEP] <OUTCOME_RESOLUTION> <FIRST>  What did Earl Harold's made up his mind that a charming young Irish lady, the Lady
+<ACTION> <FIRST>  What did the Lady Morna do in love with Paul? clearance and heart [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was the Lady Morna in love with Paul? answer.html file thick text
+<ACTION> <FIRST>  What did Earl Paul take some days before the others? and his departure. unusual gift [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was Earl Paul surprised by the Lady Morna's tears? answer: yes.
+<ACTION> <FIRST>  What did Earl Paul agree to do?-Paul agreed to marry her.- [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Lady Morna agree willingly? file blank.<CAUSAL_
+<ACTION> <FIRST>  What did Morna want to do till after Yule? and what happened when [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Lady Morna want to keep her secret? answer.html file from
+<ACTION> <FIRST>  What did Snorro the Dwarf know even before she laid aside her trappings? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was the Dwarf afraid of her?-relationSHIP> file volume.html copy [SEP] <CAUSAL_RELATIONSHIP> <SECOND>  Why was the Dwarf afraid of her? file volume.headnote blank color show clear-
+<ACTION> <FIRST>  What did Dwarf Snorro offer the wily Countess? and high-water [SEP] <ACTION> <SECOND>  What did the Countess offer to give?-cloth. subject flow and then with success [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Countess consented to do what she asked? answer is simple.<
+<ACTION> <FIRST>  What did the Lady Morna offer her heart and hand once more to? sign [SEP] <ACTION> <SECOND>  What did the Lady Morna offer her heart and hand once more to?. [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was the Lady Morna unwilling to give her heart and hand?-queue. [SEP] <OUTCOME_RESOLUTION> <FIRST>  What happened after the Countess Fraukirk had been away upon her wicked errand?
+<ACTION> <FIRST>  What did the Wizard do when he saw the young noble??. spot gold [SEP] <ACTION> <SECOND>  What did the Wizard do when he saw the young noble? clear? round. place [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Earl want to find the dwarfie Stone? answer.html fileholder-
+<ACTION> <FIRST>  What did Earl Harold do after he waved away his little page-boy?. show the [SEP] <ACTION> <SECOND>  What did Earl Harold do after he waved away his little page-boy?. service? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did Earl Harold give the page-boy to him? Harold gave the page -
+<ACTION> <FIRST>  What did the Earl Paul give to his wife?-cup. shape? litter? color [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was the Court delighted with her graciousness? file reply.-file>
+<ACTION> <FIRST>  What did the two wicked women look forward eagerly to? their ruler alone in Orkney [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the two wicked women look forward eagerly to rule alone in Orkney? clear
+<ACTION> <FIRST>  What did the creature do with a hoarse croak? clear packet on to the floor [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the creature flap his great wings and rise slowly into the air again?
+<ACTION> <FIRST>  What did Norro want to do?. card litterateur wanted his mother's help [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was Snorro angry? file color.jpg show the answer to that question,
+<ACTION> <FIRST>  What did the mother and aunt do to beg for lay down?-down.jpg [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was Paul furious? file.google search results show no answer to that question, and
+<ACTION> <FIRST>  What did the Silent Earl swear?-mother . foot vow, deed and oath. file [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why?.<CAUSEAL_RELATIONSHIP>The Silent Earl swore a great [SEP] <OUTCOME_RESOLUTION> <FIRST>  What happened after the Earl learned what had happened, and understood where he came from?
+<ACTION> <FIRST>  What did the two Countesses do after they slipped out of Buckingham Palace? and deed [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the two Countesses slip out of the Palace and flee to Scotland? clearance [SEP] <OUTCOME_RESOLUTION> <FIRST>  What happened after the two Countesses escaped?.jpg file size: 10 pounds,
+<ACTION> <FIRST>  What did the Islanders want to express when they were married?. vow of fidelity and [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Islanders hold to the belief that Snorro was spirited away? clear
+<ACTION> <FIRST>  What did the mill-owner allow to grind flour one evening? back from his pocket. [SEP] <ACTION> <SECOND>  What did the mill-owner allow? flow one evening because such strange things kept happening there [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the mill-owner allow the poor woman to grind flour? address? file [SEP] <CAUSAL_RELATIONSHIP> <SECOND>  Why did the mill-owner allow the poor woman to grind flour? answer yes.html
+<ACTION> <FIRST>  What did the woman begin to do?-of fire?. threading? thick
+<ACTION> <FIRST>  What did the bonze ask for??-lane? gatekeepers asked [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the bonze want to get a good price for the pears? clear.
+<ACTION> <FIRST>  What did the farmer give to the bonze? and what happened when he gave a
+<ACTION> <FIRST>  What did the bonze do?-file. shape of his pick-ax and cut [SEP] <OUTCOME_RESOLUTION> <FIRST>  What happened after the bonze took his pick-ax and cut down a tree he felled
+<ACTION> <FIRST>  What did the farmer see by the city wall? search deed? service request? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the farmer fall into a rage and hasten after the bonze as fast he
+<ACTION> <FIRST>  What did the man drop his axe in?-letter thicket?. sounds like [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the man drop his axe in the forest? link.html file type="
+<ACTION> <FIRST>  What did the wife ask?-gate? line? service? file? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the wife want to get the axe? clear.html file link from Google search
+<ACTION> <FIRST>  What did the girl do?-of course. shape of bread on her own? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the girl want to eat? answer.html file blank? back?de
+<ACTION> <FIRST>  What did the father and daughter want to give her? file search words from their wedding vows [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the father think that his daughter looked so lovely?.html file copy of deed
+<ACTION> <FIRST>  What did the stepmother do after she saw the wreath?.html file link [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the stepmother pretend to despise the wreath? answer.html file blank at
+<ACTION> <FIRST>  What did the girl do? file. subject box and beat with pain?-file [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the girl's father tease and torment her from morning till night? clear-
+<ACTION> <FIRST>  What did the king's son see before him?-file search for words. subject and [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the king's son see before him a beautiful girl chopping wood?.de
+<ACTION> <FIRST>  How did the prince ask the girl how it came there? questionThe prince asked the [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was delighted with the answer?queue.com file volume number two??options
+<ACTION> <FIRST>  What did the princess do to see a pleasure boat which she had made for her prince?
+<ACTION> <FIRST>  What did the prince beg?ace to follow him.-leeches attached to his [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the prince make up his mind to summon all of the court physicians? clear him
+<ACTION> <FIRST>  What did the prince hold?. subject fast because he was afraid of her?- [SEP] <OUTCOME_RESOLUTION> <FIRST>  What did the prince hold? service. subject search fast because he was afraid of her?
+<ACTION> <FIRST>  What did the man ask for?.jpg file size="" rotate-wheel="none [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was the young man thinking of his mother and how poor they were? clear.
+<ACTION> <FIRST>  What did the youth do when his mother heard what he had done?. file forward and [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the youth take the horse and dog? clear his feet? answer.html
+<ACTION> <FIRST>  What did the farmer do till a deer came to the cornfield? and watch. [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the farmer hide himself and watch till a deer came to the cornfield?
+<ACTION> <FIRST>  What did the deer do? file. spot deed, and lay down where none could see [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the deer call out to the fisher's son? answer.html file blank sheep
+<ACTION> <FIRST>  What did the deer come off? do, to where he lay. of him? [SEP] <OUTCOME_RESOLUTION> <FIRST>  What happened after the deer came off? of course. ear??deacon?
+<ACTION> <FIRST>  What did the robbers bring back after Ian ate and drank?-watering rate?
+<ACTION> <FIRST>  What did the robbers do till morning? and sleep-through. bed down, [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the robbers lay down and sleep till morning? file color-coded.jpg
+<ACTION> <FIRST>  What did the deer do sorrowfully away?-wise. and deed?? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the deer feel so sleepy that he could not stand up? file color- [SEP] <OUTCOME_RESOLUTION> <FIRST>  What did the deer do after he saw the old woman of his cottage? back to him
+<ACTION> <FIRST>  What did the lady come in, stepping softly?-step. address her feet? and [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the lady say it was the last chance? clearances. service request [SEP] <OUTCOME_RESOLUTION> <FIRST>  What did the lady come in, stepping softly?-step.The lady came in quietly
+<ACTION> <FIRST>  What did the dark lad tell his son of?-wise and deed?? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the dark lad laugh as he heard the son tell of his visit? clear
+<ACTION> <FIRST>  What did the woman give to his sores?-door.jpg file copy of what
+<ACTION> <FIRST>  What did the second sister give? back to her son. subject of shoes? forward
+<ACTION> <FIRST>  What did the son do till he came home? and wait for his father to come [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the son think he would die of food? file.html link to his guilty
+<ACTION> <FIRST>  What did the weaver promise to weave for?-wise search. unusual words? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the weaver promise to weave this cloth for the king's daughter? file color
+<ACTION> <FIRST>  What did the young man ask for?-door service? services request. file
+<ACTION> <FIRST>  What did the king's daughter order?-run to be run. race? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the king's daughter order another race to be run?.html file blank?
+<ACTION> <FIRST>  What were the messengers sent to seek?portion of town.-victory [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why were the messengers sent to seek?ients.html file clear stream of water?
+<ACTION> <FIRST>  What did the king's daughter see under his water?-water?? file
+<ACTION> <FIRST>  What did the king's daughter ask for? and return request?.html file [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the king's daughter want to know how he found her? service request.
+<ACTION> <FIRST>  What did the princes ask for? help? assistance? services request? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the princes stop? answer to that question.<CAUSAL_RELATION
+<ACTION> <FIRST>  What did the eagle do till blood ran?ure. sounds like a noise and heart rate [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was John Nicholas the most unpleasant customer? file.fish-file response: yes
+<ACTION> <FIRST>  What did John Nicholas carry along with him wherever he went? serviceJohn Nicholas carried his [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did John Nicholas think all the harder?-reference.html file blank response to his
+<ACTION> <FIRST>  What did John Nicholas and Lucky Andrew do until morning? file no waterJohn Nicholas and lucky [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why have the Seven Sisters not put on their fog-caps?.dequeue file
+<ACTION> <FIRST>  What happened after Andrew woke up? of the island. Simon did not see neither brother nor [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why were the brothers not hungry? file.google-fileHD link followed closely after hearing
+<ACTION> <FIRST>  What did the meer-folk do with them?. file deed and sign? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the meer-folk make the island their abode, and do much business
+<ACTION> <FIRST>  What did the crew think?oy do?-trolls were making signs and [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the crew think the meer-trolls were making signs and waving?
+<ACTION> <FIRST>  What did Lucky Andrew see? clear from the great Northland schooner. of [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did Lucky Andrew think that the girl was a human being? file color-coded
+<ACTION> <FIRST>  What was dancing, too?-dance? the table and chairs? file [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was almost like being in a royal castle? file.jpg show the merchant's office
+<ACTION> <FIRST>  What did Lucky Andrew do?-door. beat time with his left hand until he was [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the troll-folk tumble out of the door together? answer: yes.
+<ACTION> <FIRST>  What did the dwarf take along?-letter service, and all of gold and silver. [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was Andrew enchanted? service answer provided.-queue? services answered at
+<ACTION> <FIRST>  What did the trolls and goblins do on Christmas Eve?-wise, what happened mainly [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the goblins not wish to be any poorer than Andrew? clearances.jpg
+<ACTION> <FIRST>  What happened, and John Nicholas freed himself?-wise. wormhole? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the goblins scream much louder? answer to that question.<CAUSAL_ [SEP] <OUTCOME_RESOLUTION> <FIRST>  What happened after John Nicholas returned home from his trip? file search.After John Nicholas return
+<ACTION> <FIRST>  What did Dullhead wish to do?-of the forest and cut wood. subject search [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was Dullhead sneered and jeering at? file clear? answer: Yes
+<ACTION> <FIRST>  What did the son cut down?-file. shape-note? thicket? litter [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the son not want cake and wine? file. back to normal volume two
+<ACTION> <FIRST>  What did Dullhead beg so hard to be allowed out and cut wood?. file
+<ACTION> <FIRST>  What did Dullhead find? the sour beer into excellent wine, and the fine rich cake
+<ACTION> <FIRST>  What did the eldest think when she saw the goose?-file. show slide? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the landlord of the inn have three daughters? clearance.html file back to
+<ACTION> <FIRST>  What must Dullhead do to find a man who could drink up the cellarful of wine [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the King decreed whoever should succeed in making his daughter laugh marry her?
+<ACTION> <FIRST>  What did Dullhead ask for? search deed? file thick-headed man who could [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the King feel vexed at the idea of a stupid fellow whom people called 'D
+<ACTION> <FIRST>  What did the company return to?-portal after they had prepared a great feast for [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why were not invited? file color clear the fairies.html link to her belief-
+<ACTION> <FIRST>  What did the old Fairy say that should happen?-wise, and die of it
+<ACTION> <FIRST>  What did the Princess do to divert herself in running? search and run up and down [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Princess not know of the proclamation against spindles? clearances.
+<ACTION> <FIRST>  What did the Princess take into her hand and run down in a swoon??
+<ACTION> <FIRST>  What was instantly informed of the Princess?-door service and what happened to a little [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was the Princess instantly informed of this accident?.dequeue file link from YouTube
+<ACTION> <FIRST>  What did the King ask?-towers? door? canal? gate [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the king ask what those towers were?.dequeue file copy link from
+<ACTION> <FIRST>  What did the Queen tell her son to do?-file. file-weight? secret [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Queen fear her son? answer.html file blank, hand-clipper
+<ACTION> <FIRST>  What did the old woman do?-clay, and bake a couple of fine cakes [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the old woman think that oatmeal bannock would be good for supper?
+<ACTION> <FIRST>  What did the bannock do after she saw this disappearing?. note to her husband [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the old woman run after this? file.html link to show evidence of innocence
+<ACTION> <FIRST>  What did the tailor's wife do when she saw a wee bannock?- [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the tailor's wife hide behind the master tailors? answer yes.html file
+<ACTION> <FIRST>  What did the tailor do while another took up a saucer full of pins? file thick [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the tailor jump up with his great shears? answer.html file-file [SEP] <OUTCOME_RESOLUTION> <FIRST>  What did the tailor do while another took up a saucer full of pins? file thick
+<ACTION> <FIRST>  What did Dinna grip the cake, she will not let it fly? and try
+<ACTION> <FIRST>  What did the Goodwife throw her clue at it?-letter??. [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Goodwife throw her clue at it? file.html? answer blank?
+<ACTION> <FIRST>  What did the baker do when he saw it? notice and what happened to his cake [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the baker put the cake right again? service request. file color-
+<ACTION> <FIRST>  What did the little bannock run out of?-file, and what happened to [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the little bannock run out of the mill? answer yes.<CA
+<ACTION> <FIRST>  What did the bannock do after he heard that ale was coming? round his head [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the bannock run out of the smithy as fast as it could? [SEP] <OUTCOME_RESOLUTION> <FIRST>  What did the bannock do after he heard that ale was coming?. subject matter
+<ACTION> <FIRST>  What did the Goodman do at it? clearance?clearances?-
+<ACTION> <FIRST>  What did the husband and wife do behind the chair?-door run into.
+<ACTION> <FIRST>  What did the shepherd do to almost strike it?ock. unusual deed?- [SEP] <OUTCOME_RESOLUTION> <FIRST>  What did the shepherd throw his bonnet at? file search. subject box?-
+<ACTION> <FIRST>  What did the Goodman do over his coat? service? services. coloration [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Goodman throw his coat over? file.html back to him? answer [SEP] <OUTCOME_RESOLUTION> <FIRST>  What did the Goodman throw over?-binock. shape of his coat? search
+<ACTION> <FIRST>  What did the bannock do after it saw that there was a fox's holes? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the bannock fall down? answer to that question.<CAUSEAL
+<ACTION> <FIRST>  What did the wolf come trotting round?-file. shape of his feet? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why were the villagers quiet, hard-working folk who toiled in the fields all day
+<ACTION> <FIRST>  What did the fox think of when he was galloping along one road?-wise [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the fox think about the wolf? file.html link to his own statement of
+<ACTION> <FIRST>  How did the fox notice how thin she was when he saw her?-weight loss [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why was the fox's joy somewhat checked when she noticed how thin her be?-
+<ACTION> <FIRST>  What did the wolf and fox do to look at each other?-wise, stop [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the fox sign to the wolf? file.html backhand answer blank with no
+<ACTION> <FIRST>  What did the fox want to do?.jpg file size="large" overlay="" [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the fox want to bring the bucket up? file color. litter clear water-
+<ACTION> <FIRST>  What did the old woman give to him?. bell-bell? file?
+<ACTION> <FIRST>  What did the Prince find?-door? file? service? shape? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Prince find an old woman, who begged him to help her out of a
+<ACTION> <FIRST>  What did the Prince ask?-owner? file?? service?
+<ACTION> <FIRST>  What did the Prince hear at his feet?. and foot-sound, followed
+<ACTION> <FIRST>  What did the Prince do after he had roamed round the world for a whole year? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Prince leave home? file.html link to his deed of resignation from Queen
+<ACTION> <FIRST>  What did the Prince ask his mare to do for three days?. spot and [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Prince ask the Mother Dragon to enter his service?.html file blank?
+<ACTION> <FIRST>  What did the Prince beg for? of the mare, which he at once gave
+<ACTION> <FIRST>  What did the young couple do till winter came? and deed-wise.? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the Flower Queen want to marry?.html file show interest? back up
+<ACTION> <FIRST>  What did the king do to his other?.jpg file size: 640×480 [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the king have just awakened from his midday sleep?-relationSHIP>
+<ACTION> <FIRST>  What did the king do after crying?-wise, there was no sound coming from [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the king want to know what happened? file color.jpg blank link.<
+<ACTION> <FIRST>  What did the young man do to take his last walk through the city?-file. [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the young man go out to take the prisoner last walk through? answer.html
+<ACTION> <FIRST>  What did the prisoner feel as if a load had all at once been rolled off him? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the prisoner feel as if a load had all at once been rolled off him?
+<ACTION> <FIRST>  What did the old woman tell him when they stopped at a small house in which she lived? [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the old woman tell the young man what he was to do? answer: yes
+<ACTION> <FIRST>  What did the king decide?-man. file deed? man? sign service [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the king ask for high treason?.html file blank? back to his
+<ACTION> <FIRST>  What did the young man give to his bride? file words of wonder.-word [SEP] <ACTION> <SECOND>  What did the young man give to his bride? file thick-handed voice? flow [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the young man think the girl was a poor knight? answer.html file blank [SEP] <OUTCOME_RESOLUTION> <FIRST>  What happened after the girl asked her way? color from your mind. subject search box?
+<ACTION> <FIRST>  What did the king do at his feet?-like behavior?.html file
+<ACTION> <FIRST>  What did the king sign to his newly found son? file search interest. show him signing
+<ACTION> <FIRST>  What did the guards do as the wizened creature, bowed with age passed between their lines [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the guards look at each other with astonished eyes?.html file copy from Asgard
+<ACTION> <FIRST>  What did the king of Granada order his nurse to do?-gate. subject matter [SEP] <CAUSAL_RELATIONSHIP> <FIRST>  Why did the king of Granada order his nurse to take him away from the palace?
+<ACTION> <FIRST>  What did the wizard tell your story?-letter box. subject matter search at court,
