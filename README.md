@@ -1,37 +1,88 @@
-### Needed environment
+# Educational Question Generation of Children Storybooks via Question Type Distribution Learning and Event-centric Summarization
 
-* customized transformers: `cd transformers & pip install .`
-* `spacy==2.3.7`
-* `torch==1.7.1`
-* `pytorch-lightning==0.9.0`
-* `torchtext==0.8.0`
-* `rouge-score==0.0.4`
+We consider generating high-cognitive-demand (HCD) educational questions by learning question type distribution and event-centric summarization. This repository is the official implementation of [our paper](https://openreview.net/forum?id=QMFQWUBmLDR). 
 
-### Prepare data
+<img src="https://github.com/zhaozj89/Educational-Question-Generation/blob/main/images/overview.pdf" width="300">
 
-FairytaleQA has not been publically realeased yet, and users need to inquire the authors of FairytaleQA for the dataset. Assuming we have the dataset at `./data/split` and the transformed QA statements at `./data/infrence`, we can prepare the needed format as follows:
+## Requirements
 
-* python step1_toxlsx.py
-* python step2_topkl.py
-* python step3_topkllist.py
+Run the following command to install requirements:
 
-### Train and predict question type distribution
+```
+cd transformers & pip install .
+pip install spacy==2.3.7
+pip install torch==1.7.1
+pip install pytorch-lightning==0.9.0
+pip install torchtext==0.8.0
+pip install rouge-score==0.0.4
+```
 
-In `tdl` folder
+## Dataset
 
-* python train.py
-* python predict.py
+FairytaleQA can be found at [here](https://github.com/uci-soe/FairytaleQAData). Assuming we have the dataset at `./data/split` and the transformed QA statements at `./data/infrence`, we can prepare the needed format as follows:
 
-### Train and predict section2sum
+```
+python step1_toxlsx.py
+python step2_topkl.py
+python step3_topkllist.py
+```
 
-In `section2sum` folder
+## Training and Prediction
 
-* python train_section2sum.py
-* python generate_section2sum.py
+*Paths need to be configured manually*
 
-### Train and predict sum2question
+1. Question type distribution. In `tdl` folder,
 
-In `sum2question` folder
+```
+python train.py
+python predict.py
+```
 
-* python train_sum2qustion.py
-* python generate_sum2question.py
+2. Event-centric summary generation. In `section2sum` folder,
+
+```
+python train_section2sum.py
+python generate_section2sum.py
+```
+
+3. Educational question generation. In `sum2question` folder, 
+
+```
+python train_sum2qustion.py
+python generate_sum2question.py
+```
+
+## Trained Models
+
+* Question type distribution [here](https://pan.baidu.com/s/1_oH8mSrJgvU2_t8vY-esTg?pwd=324t)
+
+* Event-centric summary generation [here](https://pan.baidu.com/s/19BQlLIW0TzbmbeoYRdtW7Q?pwd=femm)
+
+* Educational question generation [file1](https://pan.baidu.com/s/1yJu9AwZq3voJgA6DonFkeA?pwd=e589) [file2](https://pan.baidu.com/s/1kA2LgGAX1utHAAYaQKkseQ?pwd=e03e), then join them as one file by `join summary2question_epoch=2.ckpt.* > summary2question_epoch=2.ckpt`
+
+## Highlighted Results
+
+* Automatic evaluation on Rouge-L and BERTScore
+
+<img src="https://github.com/zhaozj89/Educational-Question-Generation/blob/main/images/automatic.png" width="300">
+
+* Human evaluation on question types
+
+<img src="https://github.com/zhaozj89/Educational-Question-Generation/blob/main/images/question_type.png" width="300">
+
+* Human evaluation on children appropriateness: the mean rating of our method (2.56±1.31) is significantly higher than the one of QAG (top2, 2.22±1.20).
+
+## Acknowledgement
+
+This repository is developed based on [FairytaleQA_QAG_System](https://github.com/WorkInTheDark/FairytaleQA_QAG_System) and [FairytaleQA_Baseline](https://github.com/WorkInTheDark/FairytaleQA_Baseline).
+
+## Citation
+
+```
+@inproceedings{zhao2022storybookqag,
+    author = {Zhao, Zhenjie and Hou, Yufang and Wang, Dakuo and Yu, Mo and Liu, Chengzhong and Ma, Xiaojuan},
+    title = {Educational Question Generation of Children Storybooks via Question Type Distribution Learning and Event-Centric Summarization},
+    publisher = {Association for Computational Linguistics},
+    year = {2022}
+}
+```
