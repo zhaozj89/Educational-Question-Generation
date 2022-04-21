@@ -64,16 +64,16 @@ python generate_sum2question.py
 
 ## Highlighted Results
 
-* Automatic evaluation on Rouge-L and BERTScore
+* Automatic evaluation on Rouge-L and BERTScore:
 
 <div align=center>
-<img src="https://github.com/zhaozj89/Educational-Question-Generation/blob/main/images/automatic.png" width="650">
+<img src="https://github.com/zhaozj89/Educational-Question-Generation/blob/main/images/automatic.png" width="700">
 </div>
 
-* Human evaluation on question types
+* Human evaluation on question types (the K-L distance of question type distribution between our method and groudtruth is 0.28, while QAG (top2) is 0.60):
 
 <div align=center>
-<img src="https://github.com/zhaozj89/Educational-Question-Generation/blob/main/images/question_type.png" width="350">
+<img src="https://github.com/zhaozj89/Educational-Question-Generation/blob/main/images/question_type.png" width="300">
 </div>
 
 * Human evaluation on children appropriateness: the mean rating of our method (2.56±1.31) is significantly higher than the one of QAG (top2, 2.22±1.20).
