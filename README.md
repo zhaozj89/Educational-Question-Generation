@@ -2,7 +2,7 @@
 
 We consider generating high-cognitive-demand (HCD) educational questions by learning question type distribution and event-centric summarization. This repository is the official implementation of [our paper](https://openreview.net/forum?id=QMFQWUBmLDR). 
 
-<img src="https://github.com/zhaozj89/Educational-Question-Generation/blob/main/images/overview.jpg" width="300">
+<img src="https://github.com/zhaozj89/Educational-Question-Generation/blob/main/images/overview.jpg" width="600">
 
 ## Requirements
 
@@ -64,11 +64,11 @@ python generate_sum2question.py
 
 * Automatic evaluation on Rouge-L and BERTScore
 
-<img src="https://github.com/zhaozj89/Educational-Question-Generation/blob/main/images/automatic.png" width="600">
+<img src="https://github.com/zhaozj89/Educational-Question-Generation/blob/main/images/automatic.png" width="650">
 
 * Human evaluation on question types
 
-<img src="https://github.com/zhaozj89/Educational-Question-Generation/blob/main/images/question_type.png" width="300">
+<img src="https://github.com/zhaozj89/Educational-Question-Generation/blob/main/images/question_type.png" width="350">
 
 * Human evaluation on children appropriateness: the mean rating of our method (2.56±1.31) is significantly higher than the one of QAG (top2, 2.22±1.20).
 
