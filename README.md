@@ -8,7 +8,7 @@ We consider generating high-cognitive-demand (HCD) educational questions by lear
 
 ## Requirements
 
-Run the following command to install requirements:
+Python>=3.6 is needed, run the following commands to install requirements:
 
 ```
 cd transformers & pip install .
