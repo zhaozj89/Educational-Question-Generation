@@ -21,7 +21,9 @@ pip install rouge-score==0.0.4
 
 ## Dataset
 
-FairytaleQA can be found at [here](https://github.com/uci-soe/FairytaleQAData). Assuming we have the dataset at `./data/split` and the transformed QA statements at `./data/infrence`, we can prepare the needed format as follows:
+FairytaleQA can be found at [here](https://github.com/uci-soe/FairytaleQAData). We used the implementation in `https://github.com/kelvinguu/qanli` to get the QA statements. Thanks to the collaboration, I have the priviliage to use a pre-version of FairytaleQA. But it may not be appropriate for me to share the modified data publicly. If you need a copy of my QA statement data, please write me an email with your name, purpose of use, affliation to zzhaoao@nuist.edu.cn. Thanks very much for your understanding. 
+
+Assuming we have the dataset at `./data/split` and the transformed QA statements at `./data/infrence`, we can prepare the needed format as follows:
 
 ```
 python step1_toxlsx.py
