@@ -1,6 +1,6 @@
 # Educational Question Generation of Children Storybooks via Question Type Distribution Learning and Event-centric Summarization
 
-This repository is the official implementation of [our paper](https://openreview.net/forum?id=QMFQWUBmLDR). We consider generating high-cognitive-demand (HCD) educational questions by learning question type distribution and event-centric summarization. Please feel free to contact me at zzhaoao@nuist.edu.cn if you have any questions.
+This repository is the official implementation of [our paper](https://openreview.net/forum?id=QMFQWUBmLDR). We consider generating high-cognitive-demand (HCD) educational questions by learning question type distribution and event-centric summarization. Please feel free to contact me at zzhaoao@nankai.edu.cn or zzhaoao@nuist.edu.cn if you have any questions.
 
 <div align=center>
 <img src="https://github.com/zhaozj89/Educational-Question-Generation/blob/main/images/overview.jpg" width="600">
