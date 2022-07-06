@@ -1,6 +1,6 @@
 # Educational Question Generation of Children Storybooks via Question Type Distribution Learning and Event-centric Summarization
 
-We consider generating high-cognitive-demand (HCD) educational questions by learning question type distribution and event-centric summarization. This repository is the official implementation of [our paper](https://openreview.net/forum?id=QMFQWUBmLDR). 
+This repository is the official implementation of [our paper](https://openreview.net/forum?id=QMFQWUBmLDR). We consider generating high-cognitive-demand (HCD) educational questions by learning question type distribution and event-centric summarization. Please feel free to contact me at zzhaoao@nuist.edu.cn if you have any questions.
 
 <div align=center>
 <img src="https://github.com/zhaozj89/Educational-Question-Generation/blob/main/images/overview.jpg" width="600">
@@ -22,6 +22,8 @@ pip install rouge-score==0.0.4
 ## Dataset
 
 FairytaleQA can be found at [here](https://github.com/uci-soe/FairytaleQAData). We used the implementation in `https://github.com/kelvinguu/qanli` to get the QA statements. Thanks to the collaboration, I have the priviliage to use a pre-version of FairytaleQA. But it may not be appropriate for me to share the modified data publicly. If you need a copy of my QA statement data, please write me an email with your name, purpose of use, affliation to zzhaoao@nuist.edu.cn. Thanks very much for your understanding. 
+
+> **_NOTE:_** I uploaded my modified `qanli` at [here](https://github.com/zhaozj89/pattern). You'll need to first get your `conllu` format file and get the transformation by running `step3_totxt.py` (please update the paths accordingly).
 
 Assuming we have the dataset at `./data/split` and the transformed QA statements at `./data/infrence`, we can prepare the needed format as follows:
 
