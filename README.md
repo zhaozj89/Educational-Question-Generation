@@ -21,7 +21,7 @@ pip install rouge-score==0.0.4
 
 ## Dataset
 
-FairytaleQA can be found at [here](https://github.com/uci-soe/FairytaleQAData). We used the implementation in `https://github.com/kelvinguu/qanli` to get the QA statements. Thanks to the collaboration, I have the priviliage to use a pre-version of FairytaleQA. But it may not be appropriate for me to share the modified data publicly. If you need a copy of my QA statement data, please write me an email with your name, purpose of use, affliation to zzhaoao@nankai.edu.cn or zzhaoao@nuist.edu.cn. Thanks very much for your understanding. 
+FairytaleQA can be found at [here](https://github.com/uci-soe/FairytaleQAData). We used the implementation in `https://github.com/kelvinguu/qanli` to get the QA statements. Thanks to the collaboration, I have the privilege to use a pre-version of FairytaleQA. But it may not be appropriate for me to share the modified data publicly. If you need a copy of my QA statement data, please write me an email with your name, purpose of use, affliation to zzhaoao@nankai.edu.cn or zzhaoao@nuist.edu.cn. Thanks very much for your understanding. 
 
 > **_NOTE:_** I uploaded my modified `qanli` at [here](https://github.com/zhaozj89/pattern). You'll need to first get your `conllu` format file and get the transformation by running `step3_totxt.py` (please update the paths accordingly).
 
